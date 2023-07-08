@@ -1,0 +1,15 @@
+C:\Users\urmat\Desktop\номе2\dom02\obj\Debug\net7.0\dom02.csproj.AssemblyReference.cache
+C:\Users\urmat\Desktop\номе2\dom02\obj\Debug\net7.0\dom02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\urmat\Desktop\номе2\dom02\obj\Debug\net7.0\dom02.AssemblyInfoInputs.cache
+C:\Users\urmat\Desktop\номе2\dom02\obj\Debug\net7.0\dom02.AssemblyInfo.cs
+C:\Users\urmat\Desktop\номе2\dom02\obj\Debug\net7.0\dom02.csproj.CoreCompileInputs.cache
+C:\Users\urmat\Desktop\номе2\dom02\bin\Debug\net7.0\dom02.exe
+C:\Users\urmat\Desktop\номе2\dom02\bin\Debug\net7.0\dom02.deps.json
+C:\Users\urmat\Desktop\номе2\dom02\bin\Debug\net7.0\dom02.runtimeconfig.json
+C:\Users\urmat\Desktop\номе2\dom02\bin\Debug\net7.0\dom02.dll
+C:\Users\urmat\Desktop\номе2\dom02\bin\Debug\net7.0\dom02.pdb
+C:\Users\urmat\Desktop\номе2\dom02\obj\Debug\net7.0\dom02.dll
+C:\Users\urmat\Desktop\номе2\dom02\obj\Debug\net7.0\refint\dom02.dll
+C:\Users\urmat\Desktop\номе2\dom02\obj\Debug\net7.0\dom02.pdb
+C:\Users\urmat\Desktop\номе2\dom02\obj\Debug\net7.0\dom02.genruntimeconfig.cache
+C:\Users\urmat\Desktop\номе2\dom02\obj\Debug\net7.0\ref\dom02.dll
